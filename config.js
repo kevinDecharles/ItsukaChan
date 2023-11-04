@@ -4,10 +4,10 @@ import { watchFile, unwatchFile } from 'fs'
 
 // Ini owner real no fek"
 global.owner = [
-  ['6285785705233'], // global owner 0
-  ['628990085223'], // global owner 1
-  ['6283848947227'], // global owner 2
-  ['6285785705233', 'Chandra XD', true] // global owner 3
+  ['6281274016808'], // global owner 0
+  ['6281274016808'], // global owner 1
+  ['6281274016808'], // global owner 2
+  ['6281274016808', 'Kevin', true] // global owner 3
 ]
 
 global.mods = [] // Want some help?
@@ -34,17 +34,17 @@ global.dtu = 'ᴅᴏɴᴀᴛᴇ'
 global.urlnya = "https://pnggilajacn.my.id/contacts"
 //========== callButtons ==========//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-8570-5233'
+global.phn = '+62 812-7401-6808'
 
 // Sticker WM
-global.packname = `ItsukaBot-Md`
+global.packname = `®AriskaBotz-Md`
 global.author = `© 2021-2023`
 
 // Random
 global.wm = `Powered by https://pnggilajacn.my.id`
 global.doc = pickRandom(["application/vnd.ms-excel", "application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/msword", "application/pdf"])
 global.ephemeral = '86400' // 86400 = 24jam, kalo ingin di hilangkan ganti '86400' jadi 'null' atau ''
-global.monitor = `YOUR-API` // Ambil di https://uptimerobot.com
+global.monitor = `u2356714-ee179821c853cbec90ee683d` // Ambil di https://uptimerobot.com
 global.multiplier = 69 // The higher, The harder levelup
 
 let file = fileURLToPath(import.meta.url)
